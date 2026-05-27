@@ -1,0 +1,18 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-plugin-manifest.json",
+  "name": "the-bookkeeper",
+  "displayName": "The Bookkeeper",
+  "version": "1.0.0",
+  "description": "Track the market-rate value of every service you deliver. Itemized statements with sourced pricing, courtesy discounts visible, full client engagement history. For productized agencies, consultants, and AI-native operators.",
+  "author": {
+    "name": "Ten30 Studio",
+    "email": "admin@ten30studio.com",
+    "url": "https://ten30studio.com"
+  },
+  "homepage": "https://ten30studio.com/services",
+  "repository": "https://github.com/Ten30studio/claude-plugins",
+  "license": "MIT",
+  "keywords": ["invoicing", "billing", "agency", "freelance", "productized-services", "value-tracking"],
+  "skills": "./skills/",
+  "agents": "./agents/"
+}

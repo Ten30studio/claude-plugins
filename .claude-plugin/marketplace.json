@@ -1,0 +1,31 @@
+{
+  "$schema": "https://json.schemastore.org/claude-code-marketplace.json",
+  "name": "ten30studio",
+  "description": "Plugins built by Ten30 Studio for AI-native production houses, productized agencies, and chat-first SMB operators. Each plugin packages a real operational pattern from the Kitt agent stack.",
+  "version": "1.0.0",
+  "owner": {
+    "name": "Ten30 Studio",
+    "email": "admin@ten30studio.com",
+    "url": "https://ten30studio.com"
+  },
+  "plugins": [
+    {
+      "name": "the-bookkeeper",
+      "displayName": "The Bookkeeper",
+      "description": "Track the market-rate value of every service you deliver — even (especially) the work you give away. Itemized statements with sourced market-rate pricing, courtesy discounts visible, client-by-client engagement history. Built for productized agencies, solo consultants, freelancers, and AI-native operators.",
+      "source": "./plugins/the-bookkeeper",
+      "version": "1.0.0",
+      "author": {
+        "name": "Ten30 Studio",
+        "email": "admin@ten30studio.com",
+        "url": "https://ten30studio.com"
+      },
+      "homepage": "https://ten30studio.com/services",
+      "repository": "https://github.com/Ten30studio/claude-plugins",
+      "license": "MIT",
+      "keywords": ["invoicing", "billing", "agency", "freelance", "consulting", "productized-services", "value-tracking", "client-management"],
+      "category": "productivity",
+      "tags": ["agency-tools", "value-tracking", "first-party"]
+    }
+  ]
+}
