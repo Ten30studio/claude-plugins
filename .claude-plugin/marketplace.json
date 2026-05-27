@@ -14,7 +14,7 @@
       "displayName": "The Bookkeeper",
       "description": "Track the market-rate value of every service you deliver — even (especially) the work you give away. Itemized statements with sourced market-rate pricing, courtesy discounts visible, client-by-client engagement history. Built for productized agencies, solo consultants, freelancers, and AI-native operators.",
       "source": "./plugins/the-bookkeeper",
-      "version": "1.0.0",
+      "version": "1.0.1",
       "author": {
         "name": "Ten30 Studio",
         "email": "admin@ten30studio.com",

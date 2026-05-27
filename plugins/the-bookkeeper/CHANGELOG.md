@@ -2,6 +2,11 @@
 
 All notable changes to The Bookkeeper plugin will be documented here.
 
+## [1.0.1] — 2026-05-27
+
+### Fixed
+- Removed explicit `skills` and `agents` path overrides from `plugin.json`. Claude Code's plugin manifest schema validator rejected `"agents": "./agents/"` as invalid input. Default discovery in `./skills/` and `./agents/` still works without explicit declaration — these fields are optional path overrides, and we don't need to override the convention.
+
 ## [1.0.0] — 2026-05-27
 
 ### Added
