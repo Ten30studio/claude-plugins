@@ -12,7 +12,7 @@ When the user asks "what should I charge for X" or "what's the market rate for Y
 1. **Identify the service category** the user is asking about.
 2. **Locate it in the catalog below** (or the closest analog if not exact).
 3. **Quote the mid-rate** as the default Ten30/agency-style price.
-4. **Cite the source range** — *"$X–$Y per [Upwork Pro / Fiverr Pro / industry survey], mid-point applied."*
+4. **Cite the source range** — *"\$X–\$Y per [Upwork Pro / Fiverr Pro / industry survey], mid-point applied."*
 5. If the user asks for **higher-end pricing** (boutique, enterprise), use the high end of the range.
 6. If the user asks for **lower-end pricing** (DIY-adjacent, emerging market), use the low end of the range.
 
@@ -26,49 +26,49 @@ If a service isn't in the catalog, do not guess silently. Tell the user it's not
 
 | Service | Mid-Rate | Source Range |
 |---|---|---|
-| Strategic business consultation (per hour) | $200/hr | $150–$300/hr (Indeed, BizFluent SMB consultant rate surveys) |
-| Custom small-business landing page | $2,200 | $1,500–$3,500 (Upwork Pro, Fiverr Pro, vertical agencies) |
-| Multi-page small-business website (4-6 pages) | $4,500 | $3,000–$8,000 (vertical agencies) |
-| Website copywriting (per word, trade services) | $0.75/word | $0.50–$1.50/word (AWAI, ProBlogger directories) |
-| Hosting infrastructure setup (Vercel/Netlify provision + SSL + domain attach) | $200 | $100–$300 (Web.com, GoDaddy Pro setup fees) |
-| Monthly hosting (recurring, after Year 1) | $25/month | $15–$50/month |
-| Domain registration + DNS setup (passthrough + service) | $80 first year | $60–$120 (LegalZoom, Squarespace concierge) |
-| SEO foundation setup (structured data, meta, OG, robots, sitemap) | $400 | $200–$800 (BrightLocal, HVAC-SEO vendors) |
+| Strategic business consultation (per hour) | \$200/hr | \$150–\$300/hr (Indeed, BizFluent SMB consultant rate surveys) |
+| Custom small-business landing page | \$2,200 | \$1,500–\$3,500 (Upwork Pro, Fiverr Pro, vertical agencies) |
+| Multi-page small-business website (4-6 pages) | \$4,500 | \$3,000–\$8,000 (vertical agencies) |
+| Website copywriting (per word, trade services) | \$0.75/word | \$0.50–\$1.50/word (AWAI, ProBlogger directories) |
+| Hosting infrastructure setup (Vercel/Netlify provision + SSL + domain attach) | \$200 | \$100–\$300 (Web.com, GoDaddy Pro setup fees) |
+| Monthly hosting (recurring, after Year 1) | \$25/month | \$15–\$50/month |
+| Domain registration + DNS setup (passthrough + service) | \$80 first year | \$60–\$120 (LegalZoom, Squarespace concierge) |
+| SEO foundation setup (structured data, meta, OG, robots, sitemap) | \$400 | \$200–\$800 (BrightLocal, HVAC-SEO vendors) |
 
 ### Brand & Identity
 
 | Service | Mid-Rate | Source Range |
 |---|---|---|
-| Brand visual identity — lite (palette, typography, basic iconography) | $600 | $300–$1,500 (99designs Logo Pkg, Looka, Fiverr Pro) |
-| Brand visual identity — full (logo, brand book, guidelines) | $2,500 | $1,500–$5,000+ (agencies) |
-| Business card design | $150 | $50–$300 (99designs, Fiverr Pro) |
-| Business card print procurement | $30 | $20–$60 (managed service fee) |
+| Brand visual identity — lite (palette, typography, basic iconography) | \$600 | \$300–\$1,500 (99designs Logo Pkg, Looka, Fiverr Pro) |
+| Brand visual identity — full (logo, brand book, guidelines) | \$2,500 | \$1,500–\$5,000+ (agencies) |
+| Business card design | \$150 | \$50–\$300 (99designs, Fiverr Pro) |
+| Business card print procurement | \$30 | \$20–\$60 (managed service fee) |
 
 ### AI & Automation
 
 | Service | Mid-Rate | Source Range |
 |---|---|---|
-| AI agent setup / wire-up (per channel, branded voice, KB seeded) | $500 setup | $300–$1,000 (chatbot setup vendors) |
-| AI agent monthly operation (per channel, post-launch) | $99/month | $49–$199/month (managed chatbot services) |
-| Telegram / WhatsApp automation setup | $400 | $200–$800 (automation vendors) |
-| Custom Claude Code plugin build | $3,500 | $1,500–$10,000 (emerging market, limited comp data) |
+| AI agent setup / wire-up (per channel, branded voice, KB seeded) | \$500 setup | \$300–\$1,000 (chatbot setup vendors) |
+| AI agent monthly operation (per channel, post-launch) | \$99/month | \$49–\$199/month (managed chatbot services) |
+| Telegram / WhatsApp automation setup | \$400 | \$200–\$800 (automation vendors) |
+| Custom Claude Code plugin build | \$3,500 | \$1,500–\$10,000 (emerging market, limited comp data) |
 
 ### Business Formation & Compliance
 
 | Service | Mid-Rate | Source Range |
 |---|---|---|
-| LLC formation service (US state filing prep, paperwork) | $250 service + state fee | $79–$499 (LegalZoom, Northwest, ZenBusiness — service fee only) |
-| EIN registration service | $100 | $50–$150 (filing services; IRS is free) |
-| HVAC license / insurance guidance (research + vendor coordination) | $300 | $200–$500 (small-business consultants) |
-| Google Business Profile setup & verification | $400 | $200–$600 (local-SEO agencies) |
+| LLC formation service (US state filing prep, paperwork) | \$250 service + state fee | \$79–\$499 (LegalZoom, Northwest, ZenBusiness — service fee only) |
+| EIN registration service | \$100 | \$50–\$150 (filing services; IRS is free) |
+| HVAC license / insurance guidance (research + vendor coordination) | \$300 | \$200–\$500 (small-business consultants) |
+| Google Business Profile setup & verification | \$400 | \$200–\$600 (local-SEO agencies) |
 
 ### Content & Research
 
 | Service | Mid-Rate | Source Range |
 |---|---|---|
-| Investor pitch deck (custom slides, copy, visuals) | $1,800 | $1,000–$5,000 (deck design agencies) |
-| Market research brief (Deloitte-style 30–50 pages) | $3,500 | $1,500–$10,000 (consulting firms) |
-| Email outreach drafting (per email, personalized) | $75 | $50–$150 (sales-copy freelancers) |
+| Investor pitch deck (custom slides, copy, visuals) | \$1,800 | \$1,000–\$5,000 (deck design agencies) |
+| Market research brief (Deloitte-style 30–50 pages) | \$3,500 | \$1,500–\$10,000 (consulting firms) |
+| Email outreach drafting (per email, personalized) | \$75 | \$50–\$150 (sales-copy freelancers) |
 
 ---
 

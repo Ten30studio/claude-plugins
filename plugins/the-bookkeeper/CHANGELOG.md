@@ -2,6 +2,12 @@
 
 All notable changes to The Bookkeeper plugin will be documented here.
 
+## [1.0.2] — 2026-05-27
+
+### Fixed
+- Escape `$` signs in the catalog skill so price values render correctly in the Claude Code terminal (markdown renderer was interpreting bare `$X...$Y` as inline LaTeX math, making catalog prices invisible).
+- Kept bare `$` in the other skills (record-deliverable, generate-statement, client-summary, agent) because those contain HTML/JSON templates Claude uses to generate output — escaping there would produce `\$4,280` literals in final statements.
+
 ## [1.0.1] — 2026-05-27
 
 ### Fixed
