@@ -61,9 +61,9 @@ https://ten30studio.com
 
 ## Changes to this policy
 
-Ten30 Studio may update this privacy policy as our plugin portfolio expands. The current version is always at the canonical URL:
+Ten30 Studio may update this privacy policy as our plugin portfolio expands. The current, canonical version is always hosted at:
 
-**https://github.com/Ten30studio/claude-plugins/blob/main/PRIVACY.md**
+**https://www.ten30studio.com/privacy**
 
 Material changes will be noted in the repository commit history.
 
