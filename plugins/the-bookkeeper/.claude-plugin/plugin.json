@@ -9,7 +9,7 @@
     "email": "admin@ten30studio.com",
     "url": "https://ten30studio.com"
   },
-  "homepage": "https://ten30studio.com/services",
+  "homepage": "https://ten30studio.com",
   "repository": "https://github.com/Ten30studio/claude-plugins",
   "license": "MIT",
   "keywords": ["invoicing", "billing", "agency", "freelance", "productized-services", "value-tracking"]
